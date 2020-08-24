@@ -1,0 +1,64 @@
+1598296056644	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\PaulB\\AppData\\Local\\Temp\\rust_mozprofiletnOXCS"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598296059584	Marionette	INFO	Listening on port 55242
+1598296059767	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.azmd.gov/Assets/Scripts/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://gls.azmd.gov/glsuiteweb/clients/azbom/Public/Results.aspx, line 21: SecurityError: Permission denied to access property "scrollTo" on cross-origin object
+1598296658250	Marionette	INFO	Stopped listening on port 55242
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1598296663587	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\PaulB\\AppData\\Local\\Temp\\rust_mozprofileczsUUN"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598296666997	Marionette	INFO	Listening on port 55385
+1598296667204	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://www.azmd.gov/Assets/Scripts/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://gls.azmd.gov/glsuiteweb/clients/azbom/Public/Results.aspx, line 21: SecurityError: Permission denied to access property "scrollTo" on cross-origin object
+1598296789901	Marionette	INFO	Stopped listening on port 55385
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1598296793884	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\PaulB\\AppData\\Local\\Temp\\rust_mozprofileyX1S8Z"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598296797162	Marionette	INFO	Listening on port 55496
+1598296797497	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.azmd.gov/Assets/Scripts/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://gls.azmd.gov/glsuiteweb/clients/azbom/Public/Results.aspx, line 21: SecurityError: Permission denied to access property "scrollTo" on cross-origin object
+1598296878962	Marionette	INFO	Stopped listening on port 55496
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1598296883954	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\PaulB\\AppData\\Local\\Temp\\rust_mozprofilez2P3Ar"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598296887150	Marionette	INFO	Listening on port 55564
+1598296887570	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.azmd.gov/Assets/Scripts/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://gls.azmd.gov/glsuiteweb/clients/azbom/Public/Results.aspx, line 21: SecurityError: Permission denied to access property "scrollTo" on cross-origin object
+1598297192797	Marionette	INFO	Stopped listening on port 55564
+1598297196421	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\PaulB\\AppData\\Local\\Temp\\rust_mozprofileLp73IQ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598297199644	Marionette	INFO	Listening on port 55696
+1598297200062	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.azmd.gov/Assets/Scripts/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://gls.azmd.gov/glsuiteweb/clients/azbom/Public/Results.aspx, line 21: SecurityError: Permission denied to access property "scrollTo" on cross-origin object
+1598297242666	Marionette	INFO	Stopped listening on port 55696
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
